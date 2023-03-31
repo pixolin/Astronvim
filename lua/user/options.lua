@@ -4,6 +4,7 @@ return {
 		number = true,     -- sets vim.opt.number
 		spell = false,     -- sets vim.opt.spell
 		signcolumn = "auto", -- sets vim.opt.signcolumn to auto
+		cursorline = true,
 		wrap = false,      -- sets vim.opt.wrap
 		listchars = {
 			-- eol = '¬',
